@@ -2,7 +2,7 @@
 ## 1/5 
 ### Ziele
 1. Einführung in das Lernatelier: Was ist das Lernatelier? Welche Ziele verfolgt es? Was ist meine Aufgabe
-2. Organisatorisches: Planung über GitHub und Markdown.
+2. Organisatorisches: Regeln, Planung mit GitHub und Markdown.
 3. Loslegen mit der selbstständigen Arbeit
 
 ### Reflexion und Feedback
